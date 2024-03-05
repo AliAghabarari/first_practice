@@ -1,6 +1,6 @@
 import turtle
 
-size = int(input("write size of your pen: "))
+size = int(input("write size of your shape: "))
 color = input("write color of your pen: ")
 shape = turtle.Turtle()
 shape.shape('turtle')
