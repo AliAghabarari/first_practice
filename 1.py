@@ -30,7 +30,6 @@ else:
             value2 = value1[0]
             for i in range(1, x - 1):
                 value2 += value1[i]
-            print(value2)
             s = 0
             for i in value2:
                 if 48 <= ord(i) and ord(i) <= 57:
